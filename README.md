@@ -21,24 +21,63 @@
                                         Multimedia University  / Cyberjaya, Malaysia
                                         
 --------------------------------------------------------------------------------------------------------------
-                                        Additional Education  / Onsite                                    1.35
+                                        Additional Education  / Onsite                                    4.05
 
 2017 Oct 23         2017 Nov 3          EY Business School 2017                                           1.35
                                         EY Kazakhstan  / Almaty, Kazakhstan
                                         
+2016 Oct            2016 Dec            EuroBAK HR University 2016                                        1.35
+                                        European Business Association of Kazakhstan (EuroBAK)
+
+2015 Oct            2015 Dec            EuroBAK HR University 2015                                        1.35
+                                        European Business Association of Kazakhstan (EuroBAK)
+
 --------------------------------------------------------------------------------------------------------------
                                         Additional Education  / Remote                                   27.85
 
-                    2021 Dec 14         How to Manage a Remote Team                        96.66  / 100   1.35
+                    2021 Dec 14         How to Manage a Remote Team                                       1.35
                                         GitLab  / Coursera
                     
                     2021 Dec            YC Startup School                                                 1.35
                                         Ycombinator
                     
-                    2020 Oct 26         Business Transformation with Google Cloud          100    / 100   1.35
+                    2020 Oct 26         Business Transformation with Google Cloud                         1.35
                                         Google Cloud  / Coursera
                                         
-                    2020 Oct 25         Research Data Managament and Sharing               100    / 100   1.35
-                                        University of North Carolina at Chapel Hill  / Coursera
+                    2020 Oct 25         Research Data Managament and Sharing                              1.35
+                                        U of North Carolina at Chapel Hill  / Coursera
+
+                    2020 Sep 14         Web Applications for Everybody  / Specialization                  4.65
+                                        University of Michigan  / Coursera
+
+                    2020 Aug 30         Agile Development / Specialization                                4.65
+                                        University of Virginia, Darden School of Business  / Coursera
+
+                    2020 Aug 30         Digital Product Management  / Specialization                      1.10
+                                        University of Virginia, Darden School of Business  / Coursera
+
+                    2020 Aug 19         Innovative Governance of Large Urban Systems                      1.35
+                                        École Polytechnique Fédérale de Lausanne (EPFL)  / Coursera
+                    
+                    2020 Aug 19         Principles of Game Design                                         1.35
+                                        Michigan State University  / Coursera
+                    
+                    2020 Aug 15         Agile with Atlassian Jira                                         1.35
+                                        Atlassian  / Coursera
+                    
+                    2020 Aug 15         Innovation Through Design                                         1.35
+                                        University of Sydney  / Coursera
+                    
+                    2020 Aug 11         Digital Transformation                                            1.35
+                                        BCG + U of Virginia, Darden School of Business  / Coursera
+                    
+                    2020 May 22         Introduction to Entrepreneurship                                  1.35
+                                        London Metropolitan University + British Council
+                    
+                    2019 Sep 22         General Course on Intellectual Property – WIPO Academy            1.35
+                                        World Intellectual Property Organization (WIPO)
+                    
+                    2019 Sep 8          Fundamentals of Digital Marketing – Google Digital Garage         1.35
+                                        Google + Open University
                     
 ```
