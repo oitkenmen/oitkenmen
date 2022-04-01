@@ -4,7 +4,8 @@
 
 2021 May 12         Today               Digital Product Manager  / Full-Time                             14.31
                                         Talentli  / Almaty, Kazakhstan
-                                        
+
+
 --------------------------------------------------------------------------------------------------------------
                                         Tertiary Education  / Onsite                                      9.77
 
@@ -19,7 +20,8 @@
 
 2009 Oct            2010 Oct            Multimedia Systems – Faculty of Computing and Informatics         1.45
                                         Multimedia University  / Cyberjaya, Malaysia
-                                        
+
+
 --------------------------------------------------------------------------------------------------------------
                                         Additional Education  / Onsite                                    4.05
 
@@ -31,6 +33,7 @@
 
 2015 Oct            2015 Dec            EuroBAK HR University 2015                                        1.35
                                         European Business Association of Kazakhstan (EuroBAK)
+
 
 --------------------------------------------------------------------------------------------------------------
                                         Additional Education  / Remote                                   27.85
@@ -79,5 +82,4 @@
                     
                     2019 Sep 8          Fundamentals of Digital Marketing – Google Digital Garage         1.35
                                         Google + Open University
-                    
 ```
