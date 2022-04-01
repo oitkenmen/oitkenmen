@@ -21,24 +21,24 @@
                                         Multimedia University  / Cyberjaya, Malaysia
                                         
 --------------------------------------------------------------------------------------------------------------
-                                        Additional Education  / Onsite																		1.35
+                                        Additional Education  / Onsite                                    1.35
 
-2017 Oct 23         2017 Nov 3          EY Business School 2017																				    1.35
+2017 Oct 23         2017 Nov 3          EY Business School 2017                                           1.35
                                         EY Kazakhstan  / Almaty, Kazakhstan
                                         
 --------------------------------------------------------------------------------------------------------------
                                         Additional Education  / Remote                                   27.85
 
-                    2021 Dec 14         How to Manage a Remote Team													96.66	/ 100   1.35
+                    2021 Dec 14         How to Manage a Remote Team                        96.66  / 100   1.35
                                         GitLab  / Coursera
                     
                     2021 Dec            YC Startup School                                                 1.35
                                         Ycombinator
                     
-                    2020 Oct 26         Business Transformation with Google Cloud          100		/ 100   1.35
+                    2020 Oct 26         Business Transformation with Google Cloud          100    / 100   1.35
                                         Google Cloud  / Coursera
                                         
-                    2020 Oct 25         Research Data Managament and Sharing							 100		/ 100   1.35
+                    2020 Oct 25         Research Data Managament and Sharing               100    / 100   1.35
                                         University of North Carolina at Chapel Hill  / Coursera
                     
 ```
