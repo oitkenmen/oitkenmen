@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------
                                         Professional Experience  / Onsite                                14.31
 
-2021 May 12         Today               Digital Product Manager  / Full-Time                             14.31
+2021 Dec 7          Today               Digital Product Manager  / Full-Time                             14.31
                                         Talentli  / Almaty, Kazakhstan
 
 
