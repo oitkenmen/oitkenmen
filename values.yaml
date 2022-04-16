@@ -5,31 +5,16 @@ metadata:
     kubernetes.io/ingress.class: nginx
     meta.helm.sh/release-name: budibase
     meta.helm.sh/release-namespace: budibase
-  creationTimestamp: "2022-04-15T06:06:34Z"
-  generation: 1
   labels:
     app.kubernetes.io/instance: budibase
     app.kubernetes.io/managed-by: Helm
     app.kubernetes.io/name: budibase
     app.kubernetes.io/version: 1.0.48
     helm.sh/chart: budibase-0.2.8
-  name: budibase-budibase
+  name: ingress-nginx
   namespace: budibase
-  resourceVersion: "6512"
-  uid: c6093aa2-93ce-43a5-a774-9ed5b2760bd0
 spec:
   rules:
-  - http:
-      paths:
-      - backend:
-          service:
-            name: proxy-service
-            port:
-              number: 10000
-        path: /
-        pathType: Prefix
-status:
-  loadBalancer:
     ingress:
       enabled: true
       nginx: true
