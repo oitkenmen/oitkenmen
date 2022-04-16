@@ -2,10 +2,9 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: 
-  labels:
-    app: 
+  annotations:
+    kubernetes.io/ingress.class: nginx
 spec:
-  ingressClassName: nginx
   rules:
     - host: app.tlnt.li
       http:
